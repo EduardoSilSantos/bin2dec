@@ -1,0 +1,26 @@
+{
+  "name": "app-ideas-examples",
+  "version": "1.0.0",
+  "description": "Este repositório é dedicado à implementação de desafios e ideias de projetos propostos no repositório [app-ideas](https://github.com/florinpop17/app-ideas).",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --coverageReporters=text"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoSilSantos/app-ideas-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EduardoSilSantos/app-ideas-examples/issues"
+  },
+  "homepage": "https://github.com/EduardoSilSantos/app-ideas-examples#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.3.0",
+    "jest-environment-jsdom": "^30.3.0"
+  }
+}

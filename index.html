@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Bin2Dec</title>
+</head>
+
+<body>
+    <div class="container">
+        <h2>Bin2Dec</h2>
+        <form id="formConverter" action="/submit" method="post">
+            <label for="binary">Número binário</label>
+            <input type="text" id="binary" name="binary" required maxlength="8" autofocus>
+            <br><br>
+            <label for="decimal">Número decimal</label>
+            <output id="decimal" name="decimal" for="binary"></output>
+            <br><br>
+            <button type="submit">Converter</button>
+        </form>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
