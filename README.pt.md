@@ -106,7 +106,9 @@ Implementar uma aplicação que:
 ## 🚀 Status
 - [x] Desafio concluído com sucesso!
 
-## 🔗 Referência
+## 🔗 Referências
 Desafio original: [Bin2Dec App](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
+
+Mais desafios: [App Ideas Examples](https://github.com/EduardoSilSantos/app-ideas-examples)
 
 
