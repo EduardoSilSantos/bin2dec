@@ -1,4 +1,4 @@
-[![English](https://img.shields.io/badge/lang-English-blue?labelColor=red)](../Bin2Dec/)
+[![English](https://img.shields.io/badge/lang-English-blue?labelColor=red)](https://github.com/EduardoSilSantos/bin2dec)
 [![Português](https://img.shields.io/badge/lang-Português-green?labelColor=yellow)](README.pt.md)
 
 # ✅ Desafio Concluído: Bin2Dec App
