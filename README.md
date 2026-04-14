@@ -91,9 +91,18 @@ Implement an application that:
 
 ## ⚙️ How to run locally.
 
+Clone the repository and open the **`index.html`** file in a browser:
 ```bash
-🚧 → Under development... # Please wait for updates...
+git clone https://github.com/EduardoSilSantos/bin2dec.git
 ```
+
+### Running Tests
+You need to have [NodeJS](https://nodejs.org) installed to set up the dependencies and run the tests:
+```bash
+npm install && npm test
+```
+👉 Try [Bin2Dec](https://eduardosilsantos.github.io/bin2dec/) online.
+
 
 ## 👤 Completed User Stories
 - [x] The user can enter up to 8 binary digits in an input field

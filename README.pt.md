@@ -91,9 +91,19 @@ Implementar uma aplicação que:
 
 ## ⚙️ Como executar localmente.
 
+Clone o repositório e abra o arquivo **`index.html`** em um navegador:
 ```bash
-🚧 → Em desenvolvimento... # Por favor, aguarde atualização...
+git clone https://github.com/EduardoSilSantos/bin2dec.git
 ```
+
+### Executando testes
+Você precisa ter o [NodeJS](https://nodejs.org) instalado para configurar as dependências e executar os testes:
+```bash
+npm install && npm test
+```
+
+👉 Experimente [Bin2Dec](https://eduardosilsantos.github.io/bin2dec/) online.
+
 
 ## 👤 Histórias de Usuário Concluídas
 - [x] O usuário pode inserir até 8 dígitos binários em um campo de entrada
