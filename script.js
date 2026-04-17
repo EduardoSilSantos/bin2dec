@@ -34,7 +34,6 @@ const toDecimal = (binary) => {
     }
     return result;
 }
-// 👉 Se estiver no navegador, chama init automaticamente
+
 if (typeof window !== 'undefined') window.addEventListener('DOMContentLoaded', init);
-// 👉 Se estiver em Node (Jest), exporta para testes
 if (typeof module !== 'undefined' && module.exports) module.exports = { notifyUser, init, toDecimal };
